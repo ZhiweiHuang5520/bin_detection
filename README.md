@@ -1,1 +1,2 @@
-# bin_detection
+# recycling bin detection
+To segment and recognize object, it’s important to classify each pixel into different colors, segment image into regions and detect target object based on geometry shape. In this project, we have developed a logistic regression model to classify pixel into R, G, B, three spaces and provided a solution to detect recycling bin based on logistic regression and image region shape from training data.
